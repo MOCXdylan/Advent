@@ -2,7 +2,7 @@
 	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Advent",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
@@ -13,9 +13,9 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
+		"name": "Gene clinic center",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Advent",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
