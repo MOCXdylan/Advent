@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Phasers",
+		"name": "advent peace keepers",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Advent",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
